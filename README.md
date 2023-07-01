@@ -13,6 +13,8 @@ Please use this information responsibly, for educational purposes only, and alwa
 ## For law Enforcement
 IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE DELETE
 
+## If you have been infected please contact me via issues and i will try my best to help you out!
+
 ## USE AT YOUR OWN RISK!!! ITS NOT MY FUALT FOR ANY OF YOUR ACTIONS!!!
 1. Matthew 7:12, "So whatever you wish that others would do to you, do also to them
 2. Proverbs 12:22 states, "The Lord detests lying lips, but he delights in people who are trustworthy."
