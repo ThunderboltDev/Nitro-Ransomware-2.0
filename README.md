@@ -14,7 +14,7 @@ Please use this information responsibly, for educational purposes only, and alwa
 IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE DELETE
 
 ## If you have been infected please contact me via issues and i will try my best to help you out!
-**And Please make a FBI REPORT of the ransomware infection! at This** > FBI RANSOMWARE SITE](https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes/ransomware)
+**And Please make a FBI REPORT of the ransomware infection! at This** > [FBI RANSOMWARE SITE](https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes/ransomware)
 **SAVE ALL SCREENSHOTS AND ANYTHING THAT WILL HELP FIND OUT WHO INFECTED YOU!**
 
 ## USE AT YOUR OWN RISK!!! ITS NOT MY FUALT FOR ANY OF YOUR ACTIONS!!!
