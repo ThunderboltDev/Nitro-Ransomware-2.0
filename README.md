@@ -13,6 +13,8 @@ Please use this information responsibly, for educational purposes only, and alwa
 ## For law Enforcement
 IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE DELETE
 
+## USE AT YOUR OWN RISK!!! ITS NOT MY FUALT FOR ANY OF YOUR ACTIONS!!!
+
 ## How to use
 1. Download VS 2022 or 2019 [RECOMMENDED 2019]
 2. Install Missing packages using nuget
