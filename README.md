@@ -13,8 +13,7 @@ Please use this information responsibly, for educational purposes only, and alwa
 ## For law Enforcement
 IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE DELETE
 
-##IF YOU WANT THIS PLEASE JOIN OUR SERVER 
-Join Our Discord Server: [Join Now!](https://discord.gg/3SrxqUWEuT)
+
 
 ## Pictures:
 ![](https://files.catbox.moe/tv76c4.png)
