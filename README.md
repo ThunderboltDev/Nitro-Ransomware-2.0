@@ -19,6 +19,8 @@ IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE 
 3. Exodus 20:15 states, "You shall not steal."
 4. Proverbs 22:22-23: "Do not exploit the poor because they are poor and do not crush the needy in court, for the Lord will take up their case and will exact life for life."
 5. Ephesians 4:28: "Anyone who has been stealing must steal no longer but must work, doing something useful with their own hands, that they may have something to share with those in need
+   
+**YOU HAVE BEEN WARNED IF YOU COMPILED AND INFECT SOMEONE MACHINE WITH ITS NOT MY FUALT FOR YOUR ACTIONS** 
 
 ## How to use
 1. Download VS 2022 or 2019 [RECOMMENDED 2019]
