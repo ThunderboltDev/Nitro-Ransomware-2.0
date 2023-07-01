@@ -14,6 +14,7 @@ Please use this information responsibly, for educational purposes only, and alwa
 IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE DELETE
 
 ## Pictures:
+![](https://files.catbox.moe/tv76c4.png)
 
 Features:
 1. New UI
