@@ -20,7 +20,8 @@ IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE 
 4. Go to Webhook.cs
 5. Replace string TelegramToken = "Telegram Token"; Put your telegram token here
 6. Compile and Done
-OBFUSCATION IS RECOMMENDED!
+   
+**OBFUSCATION IS RECOMMENDED!**
 
 ## Pictures:
 ![](https://files.catbox.moe/tv76c4.png)
