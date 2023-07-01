@@ -13,7 +13,13 @@ Please use this information responsibly, for educational purposes only, and alwa
 ## For law Enforcement
 IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE DELETE
 
-
+## How to use
+1. Download VS 2022 or 2019 [RECOMMENDED 2019]
+2. Edit Program and Replace CHATID with your telegram ID
+3. Go to Webhook.cs
+4. Replace string TelegramToken = "Telegram Token"; Put your telegram token here
+5. Compile and Done
+OBFUSCATION IS RECOMMENDED!
 
 ## Pictures:
 ![](https://files.catbox.moe/tv76c4.png)
