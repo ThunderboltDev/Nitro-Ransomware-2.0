@@ -50,6 +50,11 @@ Features:
 2. Now Works for telegram Only for better security
 3. BSOD PC's that are blacklisted
 4. Makes itself Unkillable Via TaskMgr
+
+Added: 
+1. Disable Taskmgr
+2. grabs exes that are running and send it to you via anonfiles link
+
    
 TO DO LIST:
 > Get More System info
