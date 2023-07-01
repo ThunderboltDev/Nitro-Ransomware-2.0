@@ -14,11 +14,11 @@ Please use this information responsibly, for educational purposes only, and alwa
 IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE DELETE
 
 ## USE AT YOUR OWN RISK!!! ITS NOT MY FUALT FOR ANY OF YOUR ACTIONS!!!
-Matthew 7:12, "So whatever you wish that others would do to you, do also to them
-Proverbs 12:22 states, "The Lord detests lying lips, but he delights in people who are trustworthy."
-Exodus 20:15 states, "You shall not steal."
-Proverbs 22:22-23: "Do not exploit the poor because they are poor and do not crush the needy in court, for the Lord will take up their case and will exact life for life."
-Ephesians 4:28: "Anyone who has been stealing must steal no longer but must work, doing something useful with their own hands, that they may have something to share with those in need
+1. Matthew 7:12, "So whatever you wish that others would do to you, do also to them
+2. Proverbs 12:22 states, "The Lord detests lying lips, but he delights in people who are trustworthy."
+3. Exodus 20:15 states, "You shall not steal."
+4. Proverbs 22:22-23: "Do not exploit the poor because they are poor and do not crush the needy in court, for the Lord will take up their case and will exact life for life."
+5. Ephesians 4:28: "Anyone who has been stealing must steal no longer but must work, doing something useful with their own hands, that they may have something to share with those in need
 
 ## How to use
 1. Download VS 2022 or 2019 [RECOMMENDED 2019]
