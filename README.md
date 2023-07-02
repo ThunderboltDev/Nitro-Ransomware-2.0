@@ -58,6 +58,11 @@ Added:
    
 TO DO LIST:
 > Get More System info
+
 > Add a info stealer
+
 > send screenshot of the pc
+
 > Destroys the system if they try to kill it
+
+> Fix the UI
