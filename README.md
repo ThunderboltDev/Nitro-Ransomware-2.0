@@ -31,6 +31,8 @@ IF YOU ARE LAW ENFOCEMENT PLEASE CONTACT US BY ISSUES ANY SPAM OR FAKES WILL BE 
    
 **YOU HAVE BEEN WARNED IF YOU COMPILED AND INFECT SOMEONE MACHINE WITH ITS NOT MY FUALT FOR YOUR ACTIONS** 
 
+## Whats removed?
+1. Token Grabbing feature (Dont worry im adding that back later on)
 ## How to use
 1. Download VS 2022 or 2019 [RECOMMENDED 2019]
 2. Install Missing packages using nuget
