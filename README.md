@@ -14,11 +14,6 @@ Please use this information responsibly, for educational purposes only, and alwa
 ### why are you watching :)
 ![](https://files.catbox.moe/8l7twb.png)
 
-## If you have been infected please contact me via issues and i will try my best to help you out!
-**And Please make a FBI REPORT of the ransomware infection! at This** > [FBI RANSOMWARE SITE](https://www.fbi.gov/how-we-can-help-you/safety-resources/scams-and-safety/common-scams-and-crimes/ransomware)
-**SAVE ALL SCREENSHOTS AND ANYTHING THAT WILL HELP FIND OUT WHO INFECTED YOU!**
-**YOU HAVE BEEN WARNED IF YOU COMPILED AND INFECT SOMEONE MACHINE WITH ITS NOT MY FUALT FOR YOUR ACTIONS** 
-
 ## Whats removed?
 1. Token Grabbing feature (Dont worry im adding that back later on)
 2. 
