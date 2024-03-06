@@ -11,12 +11,11 @@ It is essential to prioritize ethical behavior and use programming skills respon
 Please use this information responsibly, for educational purposes only, and always adhere to the legal and ethical guidelines that govern your jurisdiction.
 
 
-### why are you watching :)
-![](https://files.catbox.moe/8l7twb.png)
+
 
 ## Whats removed?
 1. Token Grabbing feature (Dont worry im adding that back later on)
-2. 
+
 ## How to use
 1. Download VS 2022 or 2019 [RECOMMENDED 2019]
 2. Install Missing packages using nuget
