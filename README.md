@@ -48,3 +48,6 @@ TO DO LIST:
 > Destroys the system if they try to kill it
 
 > Fix the UI
+
+> anonfiles to Gofile 
+
