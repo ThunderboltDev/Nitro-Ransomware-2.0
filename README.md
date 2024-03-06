@@ -10,9 +10,6 @@ It is essential to prioritize ethical behavior and use programming skills respon
 
 Please use this information responsibly, for educational purposes only, and always adhere to the legal and ethical guidelines that govern your jurisdiction.
 
-
-
-
 ## Whats removed?
 1. Token Grabbing feature (Dont worry im adding that back later on)
 
@@ -41,7 +38,6 @@ Added:
 1. Disable Taskmgr
 2. grabs exes that are running and send it to you via anonfiles link
 
-   
 TO DO LIST:
 > Get More System info
 
